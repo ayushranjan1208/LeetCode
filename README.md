@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ayushranjan1208/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/ayushranjan1208/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ayushranjan1208/LeetCode/tree/master/0169-majority-element) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ayushranjan1208/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ayushranjan1208/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Two Pointers
 |  |
