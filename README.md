@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ayushranjan1208/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ayushranjan1208/LeetCode/tree/master/0169-majority-element) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ayushranjan1208/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/ayushranjan1208/LeetCode/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ayushranjan1208/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Two Pointers
 |  |
@@ -59,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ayushranjan1208/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/ayushranjan1208/LeetCode/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
+## Brainteaser
+|  |
+| ------- |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/ayushranjan1208/LeetCode/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
