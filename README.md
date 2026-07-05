@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/ayushranjan1208/LeetCode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/ayushranjan1208/LeetCode/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/ayushranjan1208/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ayushranjan1208/LeetCode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/ayushranjan1208/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ayushranjan1208/LeetCode/tree/master/0169-majority-element) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/ayushranjan1208/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ayushranjan1208/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ayushranjan1208/LeetCode/tree/master/0169-majority-element) |
 ## Divide and Conquer
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/ayushranjan1208/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [1301-number-of-paths-with-max-score](https://github.com/ayushranjan1208/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ayushranjan1208/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
