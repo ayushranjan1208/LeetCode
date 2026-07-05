@@ -8,6 +8,7 @@ public:
         vector<vector<int>> ans;
 
         for(int i = 0; i < n - 2; i++){
+            if(i > 0 && nums[i] == nums[i-1]) continue;
             int tar = -nums[i];
             int s = i + 1, e = n - 1;
             while(s < e){
@@ -23,7 +24,6 @@ public:
                 else if(sum > tar) e--;
                 else s++;
             }
-            while(i < n - 1 && nums[i] == nums[i+1]) i++;
         }
         return ans;
     }
