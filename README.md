@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ayushranjan1208/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1301-number-of-paths-with-max-score](https://github.com/ayushranjan1208/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayushranjan1208/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/ayushranjan1208/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/ayushranjan1208/LeetCode/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ayushranjan1208/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/ayushranjan1208/LeetCode/tree/master/3620-network-recovery-pathways) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ayushranjan1208/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ayushranjan1208/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayushranjan1208/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/ayushranjan1208/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [3620-network-recovery-pathways](https://github.com/ayushranjan1208/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
