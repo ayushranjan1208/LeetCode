@@ -5,7 +5,7 @@ public:
 
         int r = 0, c = m - 1;
 
-        while(r >= 0 && r < n && c >= 0 && c < m){
+        while(r < n && c >= 0){
 
             if(matrix[r][c] == target) return true;
 
