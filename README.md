@@ -205,5 +205,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/ayushranjan1208/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ayushranjan1208/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/ayushranjan1208/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
