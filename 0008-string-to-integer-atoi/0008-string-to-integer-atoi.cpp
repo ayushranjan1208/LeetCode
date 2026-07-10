@@ -1,5 +1,17 @@
 class Solution {
 public:
+    int fun(string &s, int i,long long ans,int sign){
+        if(i >= s.size() || !isdigit(s[i])){
+            return sign*ans;
+        }
+
+        ans = ans * 10 + s[i] - '0';
+
+        if(sign * ans > INT_MAX) return INT_MAX;
+        if(sign * ans < INT_MIN) return INT_MIN;
+
+        return fun(s,i+1,ans,sign);
+    }
     int myAtoi(string s) {
         int n = s.size();
         long long ans = 0;
@@ -14,18 +26,6 @@ public:
             if(s[i] == '-') isneg = -1;
             i++;
         }
-        while(i < n && s[i] == '0') i++;
-
-        while(i < n){
-            if(s[i] < '0' || s[i] > '9') break;
-
-            int d = s[i] - '0';
-            ans = ans * 10 + d;
-            if (isneg * ans > INT_MAX) return INT_MAX;
-            if (isneg * ans < INT_MIN) return INT_MIN;
-            i++;
-        }
-        ans *= isneg;
-        return ans;
+        return fun(s,i,ans,isneg);
     }
 };
