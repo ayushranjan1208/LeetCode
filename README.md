@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ayushranjan1208/LeetCode/tree/master/0069-sqrtx) |
 | [0592-fraction-addition-and-subtraction](https://github.com/ayushranjan1208/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [1903-largest-odd-number-in-string](https://github.com/ayushranjan1208/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/ayushranjan1208/LeetCode/tree/master/1922-count-good-numbers) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ayushranjan1208/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ayushranjan1208/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Simulation
@@ -266,4 +267,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ayushranjan1208/LeetCode/tree/master/0050-powx-n) |
+| [1922-count-good-numbers](https://github.com/ayushranjan1208/LeetCode/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
