@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/ayushranjan1208/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/ayushranjan1208/LeetCode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/ayushranjan1208/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/ayushranjan1208/LeetCode/tree/master/0069-sqrtx) |
 | [0592-fraction-addition-and-subtraction](https://github.com/ayushranjan1208/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [1903-largest-odd-number-in-string](https://github.com/ayushranjan1208/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -261,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/ayushranjan1208/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/ayushranjan1208/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
