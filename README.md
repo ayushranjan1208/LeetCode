@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/ayushranjan1208/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ayushranjan1208/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1901-find-a-peak-element-ii](https://github.com/ayushranjan1208/LeetCode/tree/master/1901-find-a-peak-element-ii) |
+| [2055-plates-between-candles](https://github.com/ayushranjan1208/LeetCode/tree/master/2055-plates-between-candles) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/ayushranjan1208/LeetCode/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ayushranjan1208/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ayushranjan1208/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/ayushranjan1208/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ayushranjan1208/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1901-find-a-peak-element-ii](https://github.com/ayushranjan1208/LeetCode/tree/master/1901-find-a-peak-element-ii) |
+| [2055-plates-between-candles](https://github.com/ayushranjan1208/LeetCode/tree/master/2055-plates-between-candles) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ayushranjan1208/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/ayushranjan1208/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ayushranjan1208/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [2055-plates-between-candles](https://github.com/ayushranjan1208/LeetCode/tree/master/2055-plates-between-candles) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ayushranjan1208/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Indexed Tree
 |  |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayushranjan1208/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ayushranjan1208/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/ayushranjan1208/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [2055-plates-between-candles](https://github.com/ayushranjan1208/LeetCode/tree/master/2055-plates-between-candles) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ayushranjan1208/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
 |  |
