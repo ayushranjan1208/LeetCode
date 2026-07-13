@@ -296,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/ayushranjan1208/LeetCode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/ayushranjan1208/LeetCode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
