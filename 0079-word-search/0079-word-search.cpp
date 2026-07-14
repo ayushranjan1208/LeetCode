@@ -5,9 +5,8 @@ public:
     int n,m;
     bool dfs(vector<vector<char>> &board, string &word, int r, int c, int k){
         if(k == word.size()) return true;
-        if(r < 0 || r >= n || c < 0 || c >= m || board[r][c] == '?') return false;
-
-        if(board[r][c] != word[k]) return false;
+        
+        if(r < 0 || r >= n || c < 0 || c >= m || board[r][c] != word[k]) return false;
 
         char ch = board[r][c];
         board[r][c] = '?';
