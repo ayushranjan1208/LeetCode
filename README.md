@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayushranjan1208/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ayushranjan1208/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/ayushranjan1208/LeetCode/tree/master/0169-majority-element) |
+| [0216-combination-sum-iii](https://github.com/ayushranjan1208/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/ayushranjan1208/LeetCode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushranjan1208/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/ayushranjan1208/LeetCode/tree/master/0493-reverse-pairs) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ayushranjan1208/LeetCode/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/ayushranjan1208/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/ayushranjan1208/LeetCode/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/ayushranjan1208/LeetCode/tree/master/0216-combination-sum-iii) |
 ## Sliding Window
 |  |
 | ------- |
