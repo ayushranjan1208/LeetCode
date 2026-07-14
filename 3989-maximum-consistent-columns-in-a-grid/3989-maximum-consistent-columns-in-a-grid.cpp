@@ -9,7 +9,7 @@ public:
 
             int cur = 1;
             for(int j = 0; j < i; j++){
-
+                if(dp[j] + 1 <= cur) continue;
                 bool t = true;
                 for(int k = 0; k < m; k++){
 
