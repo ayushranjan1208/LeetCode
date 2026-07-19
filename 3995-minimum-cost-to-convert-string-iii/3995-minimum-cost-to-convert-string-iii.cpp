@@ -5,8 +5,8 @@ public:
     int valid(vector<vector<string>>& rules, vector<int>& costs, string &source, string &target, int l, int r){
         int cost = INT_MAX;
         for(int j = 0; j < rules.size(); j++){
-            string pat = rules[j][0];
-            string rep = rules[j][1];
+            string &pat = rules[j][0];
+            string &rep = rules[j][1];
             int c = costs[j];
 
 
