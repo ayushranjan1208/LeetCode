@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/ayushranjan1208/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/ayushranjan1208/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ayushranjan1208/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1260-shift-2d-grid](https://github.com/ayushranjan1208/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ayushranjan1208/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/ayushranjan1208/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ayushranjan1208/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ayushranjan1208/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/ayushranjan1208/LeetCode/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushranjan1208/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1260-shift-2d-grid](https://github.com/ayushranjan1208/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/ayushranjan1208/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1901-find-a-peak-element-ii](https://github.com/ayushranjan1208/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ayushranjan1208/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/ayushranjan1208/LeetCode/tree/master/0054-spiral-matrix) |
 | [0592-fraction-addition-and-subtraction](https://github.com/ayushranjan1208/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
+| [1260-shift-2d-grid](https://github.com/ayushranjan1208/LeetCode/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ayushranjan1208/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
