@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayushranjan1208/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ayushranjan1208/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/ayushranjan1208/LeetCode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/ayushranjan1208/LeetCode/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/ayushranjan1208/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/ayushranjan1208/LeetCode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushranjan1208/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ayushranjan1208/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ayushranjan1208/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/ayushranjan1208/LeetCode/tree/master/0069-sqrtx) |
+| [0204-count-primes](https://github.com/ayushranjan1208/LeetCode/tree/master/0204-count-primes) |
 | [0282-expression-add-operators](https://github.com/ayushranjan1208/LeetCode/tree/master/0282-expression-add-operators) |
 | [0523-continuous-subarray-sum](https://github.com/ayushranjan1208/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0592-fraction-addition-and-subtraction](https://github.com/ayushranjan1208/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
@@ -347,11 +349,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ayushranjan1208/LeetCode/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/ayushranjan1208/LeetCode/tree/master/1291-sequential-digits) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ayushranjan1208/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ayushranjan1208/LeetCode/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayushranjan1208/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ayushranjan1208/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ayushranjan1208/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
