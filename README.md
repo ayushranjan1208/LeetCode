@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ayushranjan1208/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/ayushranjan1208/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/ayushranjan1208/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0994-rotting-oranges](https://github.com/ayushranjan1208/LeetCode/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ayushranjan1208/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1260-shift-2d-grid](https://github.com/ayushranjan1208/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ayushranjan1208/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0994-rotting-oranges](https://github.com/ayushranjan1208/LeetCode/tree/master/0994-rotting-oranges) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ayushranjan1208/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ayushranjan1208/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ayushranjan1208/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ayushranjan1208/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/ayushranjan1208/LeetCode/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushranjan1208/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0994-rotting-oranges](https://github.com/ayushranjan1208/LeetCode/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/ayushranjan1208/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/ayushranjan1208/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1901-find-a-peak-element-ii](https://github.com/ayushranjan1208/LeetCode/tree/master/1901-find-a-peak-element-ii) |
