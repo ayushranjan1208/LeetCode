@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/ayushranjan1208/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/ayushranjan1208/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ayushranjan1208/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/ayushranjan1208/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ayushranjan1208/LeetCode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/ayushranjan1208/LeetCode/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/ayushranjan1208/LeetCode/tree/master/0127-word-ladder) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ayushranjan1208/LeetCode/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/ayushranjan1208/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ayushranjan1208/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayushranjan1208/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
