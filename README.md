@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ayushranjan1208/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1301-number-of-paths-with-max-score](https://github.com/ayushranjan1208/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/ayushranjan1208/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1406-stone-game-iii](https://github.com/ayushranjan1208/LeetCode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayushranjan1208/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayushranjan1208/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/ayushranjan1208/LeetCode/tree/master/1539-kth-missing-positive-number) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/ayushranjan1208/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0542-01-matrix](https://github.com/ayushranjan1208/LeetCode/tree/master/0542-01-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/ayushranjan1208/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
+| [1406-stone-game-iii](https://github.com/ayushranjan1208/LeetCode/tree/master/1406-stone-game-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ayushranjan1208/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/ayushranjan1208/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/ayushranjan1208/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0592-fraction-addition-and-subtraction](https://github.com/ayushranjan1208/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayushranjan1208/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1406-stone-game-iii](https://github.com/ayushranjan1208/LeetCode/tree/master/1406-stone-game-iii) |
 | [1903-largest-odd-number-in-string](https://github.com/ayushranjan1208/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/ayushranjan1208/LeetCode/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayushranjan1208/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -424,4 +427,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ayushranjan1208/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/ayushranjan1208/LeetCode/tree/master/1406-stone-game-iii) |
+## Game Theory
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/ayushranjan1208/LeetCode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/ayushranjan1208/LeetCode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
