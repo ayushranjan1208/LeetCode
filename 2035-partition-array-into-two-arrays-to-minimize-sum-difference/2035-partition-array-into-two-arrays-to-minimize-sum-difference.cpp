@@ -36,7 +36,7 @@ public:
         for(auto &[lCnt,v] : mp1){
 
             int rCnt = n - lCnt;
-            vector<int> rPart = mp2[rCnt];
+            vector<int> &rPart = mp2[rCnt];
             for(auto e : v){
                 int to_find = (sum - 2 * e) / 2;
                 int lo = lower_bound(rPart.begin(),rPart.end(),to_find) - rPart.begin();
