@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ayushranjan1208/LeetCode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/ayushranjan1208/LeetCode/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/ayushranjan1208/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0221-maximal-square](https://github.com/ayushranjan1208/LeetCode/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/ayushranjan1208/LeetCode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushranjan1208/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/ayushranjan1208/LeetCode/tree/master/0493-reverse-pairs) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/ayushranjan1208/LeetCode/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/ayushranjan1208/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/ayushranjan1208/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0221-maximal-square](https://github.com/ayushranjan1208/LeetCode/tree/master/0221-maximal-square) |
 | [0542-01-matrix](https://github.com/ayushranjan1208/LeetCode/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/ayushranjan1208/LeetCode/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/ayushranjan1208/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/ayushranjan1208/LeetCode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/ayushranjan1208/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ayushranjan1208/LeetCode/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/ayushranjan1208/LeetCode/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushranjan1208/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/ayushranjan1208/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ayushranjan1208/LeetCode/tree/master/0733-flood-fill) |
