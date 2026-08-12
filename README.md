@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/ayushranjan1208/LeetCode/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/ayushranjan1208/LeetCode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushranjan1208/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ayushranjan1208/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0493-reverse-pairs](https://github.com/ayushranjan1208/LeetCode/tree/master/0493-reverse-pairs) |
 | [0523-continuous-subarray-sum](https://github.com/ayushranjan1208/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ayushranjan1208/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/ayushranjan1208/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/ayushranjan1208/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ayushranjan1208/LeetCode/tree/master/0242-valid-anagram) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ayushranjan1208/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/ayushranjan1208/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/ayushranjan1208/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushranjan1208/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/ayushranjan1208/LeetCode/tree/master/0090-subsets-ii) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ayushranjan1208/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ayushranjan1208/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/ayushranjan1208/LeetCode/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ayushranjan1208/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ayushranjan1208/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ayushranjan1208/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## String Matching
 |  |
 | ------- |
