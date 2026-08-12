@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/ayushranjan1208/LeetCode/tree/master/0743-network-delay-time) |
 | [0994-rotting-oranges](https://github.com/ayushranjan1208/LeetCode/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/ayushranjan1208/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [2360-longest-cycle-in-a-graph](https://github.com/ayushranjan1208/LeetCode/tree/master/2360-longest-cycle-in-a-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ayushranjan1208/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ayushranjan1208/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ayushranjan1208/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/ayushranjan1208/LeetCode/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ayushranjan1208/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/ayushranjan1208/LeetCode/tree/master/2246-longest-path-with-different-adjacent-characters) |
+| [2360-longest-cycle-in-a-graph](https://github.com/ayushranjan1208/LeetCode/tree/master/2360-longest-cycle-in-a-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ayushranjan1208/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ayushranjan1208/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ayushranjan1208/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/ayushranjan1208/LeetCode/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ayushranjan1208/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/ayushranjan1208/LeetCode/tree/master/2246-longest-path-with-different-adjacent-characters) |
+| [2360-longest-cycle-in-a-graph](https://github.com/ayushranjan1208/LeetCode/tree/master/2360-longest-cycle-in-a-graph) |
 | [3620-network-recovery-pathways](https://github.com/ayushranjan1208/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Depth-First Search
 |  |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/ayushranjan1208/LeetCode/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/ayushranjan1208/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/ayushranjan1208/LeetCode/tree/master/2246-longest-path-with-different-adjacent-characters) |
+| [2360-longest-cycle-in-a-graph](https://github.com/ayushranjan1208/LeetCode/tree/master/2360-longest-cycle-in-a-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ayushranjan1208/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ayushranjan1208/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/ayushranjan1208/LeetCode/tree/master/3310-remove-methods-from-project) |
@@ -542,4 +546,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/ayushranjan1208/LeetCode/tree/master/2246-longest-path-with-different-adjacent-characters) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/ayushranjan1208/LeetCode/tree/master/2360-longest-cycle-in-a-graph) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/ayushranjan1208/LeetCode/tree/master/2360-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
