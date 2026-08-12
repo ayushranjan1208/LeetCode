@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/ayushranjan1208/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ayushranjan1208/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1631-path-with-minimum-effort](https://github.com/ayushranjan1208/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/ayushranjan1208/LeetCode/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1901-find-a-peak-element-ii](https://github.com/ayushranjan1208/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayushranjan1208/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/ayushranjan1208/LeetCode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/ayushranjan1208/LeetCode/tree/master/0090-subsets-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ayushranjan1208/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/ayushranjan1208/LeetCode/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ayushranjan1208/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/ayushranjan1208/LeetCode/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ayushranjan1208/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ayushranjan1208/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ayushranjan1208/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/ayushranjan1208/LeetCode/tree/master/1707-maximum-xor-with-an-element-from-array) |
 ## String Matching
 |  |
 | ------- |
