@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/ayushranjan1208/LeetCode/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/ayushranjan1208/LeetCode/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayushranjan1208/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/ayushranjan1208/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ayushranjan1208/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3187-peaks-in-array](https://github.com/ayushranjan1208/LeetCode/tree/master/3187-peaks-in-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ayushranjan1208/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2360-longest-cycle-in-a-graph](https://github.com/ayushranjan1208/LeetCode/tree/master/2360-longest-cycle-in-a-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ayushranjan1208/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ayushranjan1208/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/ayushranjan1208/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ayushranjan1208/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/ayushranjan1208/LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ayushranjan1208/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ayushranjan1208/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ayushranjan1208/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2045-second-minimum-time-to-reach-destination](https://github.com/ayushranjan1208/LeetCode/tree/master/2045-second-minimum-time-to-reach-destination) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/ayushranjan1208/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ayushranjan1208/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/ayushranjan1208/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Bit Manipulation
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/ayushranjan1208/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2055-plates-between-candles](https://github.com/ayushranjan1208/LeetCode/tree/master/2055-plates-between-candles) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/ayushranjan1208/LeetCode/tree/master/2246-longest-path-with-different-adjacent-characters) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/ayushranjan1208/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ayushranjan1208/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ayushranjan1208/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ayushranjan1208/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
