@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/ayushranjan1208/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0743-network-delay-time](https://github.com/ayushranjan1208/LeetCode/tree/master/0743-network-delay-time) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ayushranjan1208/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/ayushranjan1208/LeetCode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/ayushranjan1208/LeetCode/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ayushranjan1208/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2045-second-minimum-time-to-reach-destination](https://github.com/ayushranjan1208/LeetCode/tree/master/2045-second-minimum-time-to-reach-destination) |
@@ -553,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Directed Acyclic Graph
 |  |
 | ------- |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/ayushranjan1208/LeetCode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/ayushranjan1208/LeetCode/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## Tree
 |  |
