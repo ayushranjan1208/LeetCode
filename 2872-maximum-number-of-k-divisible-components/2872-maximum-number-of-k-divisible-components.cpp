@@ -8,7 +8,7 @@ public:
 
             sum += dfs(ch,node,adj,values,k);
         }
-        sum += 1ll * values[node];
+        sum += values[node];
         if(sum % k == 0){
             cnt++;
             sum = 0;
