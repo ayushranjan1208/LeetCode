@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2360-longest-cycle-in-a-graph](https://github.com/ayushranjan1208/LeetCode/tree/master/2360-longest-cycle-in-a-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ayushranjan1208/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ayushranjan1208/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/ayushranjan1208/LeetCode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3310-remove-methods-from-project](https://github.com/ayushranjan1208/LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3607-power-grid-maintenance](https://github.com/ayushranjan1208/LeetCode/tree/master/3607-power-grid-maintenance) |
 ## Union-Find
@@ -568,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/ayushranjan1208/LeetCode/tree/master/2246-longest-path-with-different-adjacent-characters) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/ayushranjan1208/LeetCode/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Kosaraju's Algorithm
 |  |
 | ------- |
