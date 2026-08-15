@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/ayushranjan1208/LeetCode/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/ayushranjan1208/LeetCode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushranjan1208/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0307-range-sum-query-mutable](https://github.com/ayushranjan1208/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ayushranjan1208/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0493-reverse-pairs](https://github.com/ayushranjan1208/LeetCode/tree/master/0493-reverse-pairs) |
 | [0523-continuous-subarray-sum](https://github.com/ayushranjan1208/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ayushranjan1208/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ayushranjan1208/LeetCode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushranjan1208/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0307-range-sum-query-mutable](https://github.com/ayushranjan1208/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/ayushranjan1208/LeetCode/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
@@ -396,11 +398,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/ayushranjan1208/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/ayushranjan1208/LeetCode/tree/master/0493-reverse-pairs) |
 | [3187-peaks-in-array](https://github.com/ayushranjan1208/LeetCode/tree/master/3187-peaks-in-array) |
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/ayushranjan1208/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/ayushranjan1208/LeetCode/tree/master/0493-reverse-pairs) |
 | [3187-peaks-in-array](https://github.com/ayushranjan1208/LeetCode/tree/master/3187-peaks-in-array) |
 ## Merge Sort
@@ -584,4 +588,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2045-second-minimum-time-to-reach-destination](https://github.com/ayushranjan1208/LeetCode/tree/master/2045-second-minimum-time-to-reach-destination) |
+## Design
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/ayushranjan1208/LeetCode/tree/master/0307-range-sum-query-mutable) |
+## Sqrt Decomposition
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/ayushranjan1208/LeetCode/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
