@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/ayushranjan1208/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayushranjan1208/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/ayushranjan1208/LeetCode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
+| [2029-stone-game-ix](https://github.com/ayushranjan1208/LeetCode/tree/master/2029-stone-game-ix) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ayushranjan1208/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2055-plates-between-candles](https://github.com/ayushranjan1208/LeetCode/tree/master/2055-plates-between-candles) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/ayushranjan1208/LeetCode/tree/master/2246-longest-path-with-different-adjacent-characters) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ayushranjan1208/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ayushranjan1208/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/ayushranjan1208/LeetCode/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [2029-stone-game-ix](https://github.com/ayushranjan1208/LeetCode/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ayushranjan1208/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Dynamic Programming
 |  |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/ayushranjan1208/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/ayushranjan1208/LeetCode/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayushranjan1208/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/ayushranjan1208/LeetCode/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ayushranjan1208/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ayushranjan1208/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ayushranjan1208/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ayushranjan1208/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/ayushranjan1208/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [2029-stone-game-ix](https://github.com/ayushranjan1208/LeetCode/tree/master/2029-stone-game-ix) |
 ## Trie
 |  |
 | ------- |
@@ -535,16 +539,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/ayushranjan1208/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/ayushranjan1208/LeetCode/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/ayushranjan1208/LeetCode/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/ayushranjan1208/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/ayushranjan1208/LeetCode/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/ayushranjan1208/LeetCode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/ayushranjan1208/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/ayushranjan1208/LeetCode/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/ayushranjan1208/LeetCode/tree/master/2029-stone-game-ix) |
 ## Meet in the Middle
 |  |
 | ------- |
@@ -603,4 +610,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/ayushranjan1208/LeetCode/tree/master/0307-range-sum-query-mutable) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/ayushranjan1208/LeetCode/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
