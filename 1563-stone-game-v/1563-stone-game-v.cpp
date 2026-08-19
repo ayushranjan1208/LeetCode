@@ -10,15 +10,13 @@ public:
             int sumL = pre[i + 1] - pre[l];
             int sumR = pre[r + 1] - pre[i + 1];
 
-            if(sumL < sumR){
+            if(sumL <= sumR){
                 ans = max(ans, sumL + fun(l, i, pre, dp));
             }
-            else if(sumL > sumR){
+            if(sumL >= sumR){
                 ans = max(ans, sumR + fun(i + 1, r, pre, dp));
             }
-            else{
-                ans = max({ans, sumL + fun(l, i, pre, dp), sumR + fun(i + 1, r, pre, dp)});
-            }
+            
         }
 
         return dp[l][r] = ans;
