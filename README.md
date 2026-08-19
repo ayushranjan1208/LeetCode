@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayushranjan1208/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/ayushranjan1208/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ayushranjan1208/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
+| [1563-stone-game-v](https://github.com/ayushranjan1208/LeetCode/tree/master/1563-stone-game-v) |
 | [1631-path-with-minimum-effort](https://github.com/ayushranjan1208/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/ayushranjan1208/LeetCode/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1901-find-a-peak-element-ii](https://github.com/ayushranjan1208/LeetCode/tree/master/1901-find-a-peak-element-ii) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/ayushranjan1208/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ayushranjan1208/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1406-stone-game-iii](https://github.com/ayushranjan1208/LeetCode/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/ayushranjan1208/LeetCode/tree/master/1563-stone-game-v) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/ayushranjan1208/LeetCode/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ayushranjan1208/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ayushranjan1208/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ayushranjan1208/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/ayushranjan1208/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/ayushranjan1208/LeetCode/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/ayushranjan1208/LeetCode/tree/master/1563-stone-game-v) |
 | [1903-largest-odd-number-in-string](https://github.com/ayushranjan1208/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/ayushranjan1208/LeetCode/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayushranjan1208/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -547,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/ayushranjan1208/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/ayushranjan1208/LeetCode/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/ayushranjan1208/LeetCode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/ayushranjan1208/LeetCode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
